@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<h3 align="center">C++ Quant Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esmo-ts&label=Profile%20views&color=0e75b6&style=flat" alt="esmo-ts" /> </p>
 
@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/esmael_c2b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esmael_c2b" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/machine-learning-ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="machine-learning-ml" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cpp-quant-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cpp-quant-developer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/esmo_ts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="esmo_ts" height="30" width="40" /></a>
 </p>
 
