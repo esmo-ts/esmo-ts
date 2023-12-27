@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
-<h3 align="center">C++ Quant Developer</h3>
+<h3 align="center">Quant Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esmo-ts&label=Profile%20views&color=0e75b6&style=flat" alt="esmo-ts" /> </p>
 
