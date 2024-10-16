@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Esmael</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esmo-ts" alt="esmo-ts" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/esmael_c2b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esmael_c2b" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/full-stack-developerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="full-stack-developerr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/backend-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="full-stack-developerr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
