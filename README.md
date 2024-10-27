@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esmael</h1>
-<h3 align="center">Backend Engineer | Java</h3>
+<h3 align="center">Backend Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esmo-ts" alt="esmo-ts" /></a> </p>
 
@@ -10,10 +10,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a> <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-line-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esmo-ts&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="esmo-ts" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esmo-ts&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="esmo-ts" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esmo-ts&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="esmo-ts" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esmo-ts&" alt="esmo-ts" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esmo-ts&theme=dark" alt="esmo-ts" /></p>
